@@ -1,4 +1,4 @@
-import Header from '@/components/Header'
+import Header from '@/components/Header';
 import TailBar from '@/components/Tail';
 import MainContent from './Main.tsx';
 
@@ -11,8 +11,5 @@ const IndexPage = () => {
     </div>
   );
 }
-
-
-
 
 export default IndexPage;
